@@ -71,7 +71,7 @@ The focus of this challenge was to build a scalable and error-resilient scraper 
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/VishwajithP2308/challenge-2-web-scraping.git
+   git clone https://github.com/VishwajithP2308/WebScraper.git
    ```
 
 2. Navigate to the project directory:
